@@ -1,0 +1,13 @@
+# Ignore build + packaging stuff
+deb.sh
+uptimer-deb/
+uptimer-deb.deb
+
+# Ignore logs
+data/history.log
+
+# Ignore binary
+uptimer
+
+# Optional
+*.o
