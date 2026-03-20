@@ -36,11 +36,8 @@ But once you reboot?
 
 ## 🖥️ Preview
 
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-⬛      VIDEO DEMO HERE      ⬛
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+![Uptimer](https://github.com/user-attachments/assets/0a3e10f5-b0f7-42e4-abb3-30ee54f1ef24)
 
-*(Add your demo video here later)*
 
 ---
 
