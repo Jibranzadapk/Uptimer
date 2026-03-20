@@ -24,7 +24,7 @@ But once you reboot?
 
 ---
 
-### 🧠 Uptimer solves that:
+### 🧠 Core Features:
 
 * 📦 Stores uptime data across sessions
 * 🧾 Maintains structured logs
